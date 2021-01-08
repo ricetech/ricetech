@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![2020 in 2020](https://github.com/ricetech/ricetech/blob/main/img/2020%20in%202020.png)
+
 <!--
 **ricetech/ricetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
