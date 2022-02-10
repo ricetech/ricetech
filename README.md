@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricetech&count_private=true&hide=stars&theme=highcontrast)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricetech&count_private=true&hide=stars&theme=highcontrast)(https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricetech&layout=compact&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 Here's a gag from 2020:
