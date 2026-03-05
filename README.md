@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!-- [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricetech&count_private=true&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricetech&layout=compact&count_private=true&theme=highcontrast&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 Here's a gag from 2020:
 
 ![2020 in 2020](https://github.com/ricetech/ricetech/blob/main/img/2020%20in%202020.png)
